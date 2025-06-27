@@ -1,2 +1,5 @@
 dependencies:
 - role: common
+
+# this file option
+# you can give variables here
